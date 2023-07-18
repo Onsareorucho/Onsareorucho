@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Delphi, Java  and Python projects<br>👯 I’m looking to collaborate on interesting projects  that involve Docker, Kubernetes, Java and Python.<br>🤝 I’m looking for help with front-end development in general.<br>🌱 I’m currently learning Delphi and Java.<br>⚡ Fun fact: I play basketball, and I hike. <br> Porfolio: ![https://iamnovportfolio.netlify.app/](https://iamnovportfolio.netlify.app/)
+🔭 I’m currently working on Delphi, Java  and Python projects<br>👯 I’m looking to collaborate on interesting projects  that involve Docker, Kubernetes, Java and Python.<br>🤝 I’m looking for help with front-end development in general.<br>🌱 I’m currently learning Delphi and Java.<br>⚡ Fun fact: I play basketball, and I hike. <br> Porfolio: [Port](https://iamnovportfolio.netlify.app/)
 
 
 # 💻 Tech Stack:
